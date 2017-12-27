@@ -1,5 +1,5 @@
 # env
-Environment setup for mac osx
+Scripts for recreating a development Environment
 
 Script will install the following:
 
@@ -11,4 +11,6 @@ Script will install the following:
 
 ## usage
 
-`./setup.sh && source ~/.bash_profile`
+From project root directory:
+
+* Mac osx: `./setup-osx.sh && source ~/.bash_profile`
